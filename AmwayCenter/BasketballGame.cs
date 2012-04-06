@@ -8,6 +8,7 @@ namespace AmwayCenter
     public class BasketballGame: ArenaEvent 
     {
         public string Opponent { get; set; }
+        public string HalftimeShow { get; set; }
 
 
         //constructor
